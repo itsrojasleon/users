@@ -1,0 +1,28 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "Graphql App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojasleon/users.git"
+  },
+  "keywords": [
+    "Graphql",
+    "React"
+  ],
+  "author": "Juan Luis Rojas León",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rojasleon/users/issues"
+  },
+  "homepage": "https://github.com/rojasleon/users#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  }
+}
